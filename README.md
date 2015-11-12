@@ -1,5 +1,7 @@
 # machinider: Generate machine identifier
 
+[![Build Status](https://travis-ci.org/borisceranic/machinider.svg?branch=master)](https://travis-ci.org/borisceranic/machinider)
+
 This is a very simple module that generates machine identifier.
 
 It is a thin wrapper around [fingerprintjs](https://www.npmjs.com/package/fingerprintjs).
