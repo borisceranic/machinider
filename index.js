@@ -1,4 +1,4 @@
-const Fingerprint = require('fingerprintjs');
+var Fingerprint = require('fingerprintjs');
 
 module.exports = function() {
     return new Fingerprint().get({
